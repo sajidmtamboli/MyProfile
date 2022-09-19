@@ -1,4 +1,3 @@
 # MyProfile
-jbhdbd
-ksnkdnd
-knfksfb
+#technology stach
+# IDE -> VS code
